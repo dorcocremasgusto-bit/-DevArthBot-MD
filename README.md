@@ -3,7 +3,7 @@
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center">
-  <img src="https://i.ibb.co/8nryJfWp/image.png" width="920" alt="DevArth Bot">
+  <img src="https://i.ibb.co/8nryJfWp/image.png" width="300" alt="DevArth Bot">
 </div>
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
